@@ -1,4 +1,3 @@
-# -ApexPlanet-Internship
 # PHP Blog Application 
 
 A simple **Blogger-style** web application built with **PHP**, **MySQL**, and **Bootstrap**, enabling users to register, log in, and manage blog posts (CRUD operations). Features rich text editing and responsive design.
